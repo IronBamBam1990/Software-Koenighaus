@@ -26,3 +26,20 @@ if panel go to hi temp = 130.0 Celsius Deg. panel send the message to heater he 
 +added saving macAddress 
 
 +fixed Avarage Temperature in Statistic Menu;
+
+
+
+
+
+
+
+
+
+<size="48">Software
+Update 1.06
+
+
+
+
+
++local domain now will be the same as SSID (WIFI )
