@@ -38,7 +38,7 @@ if panel go to hi temp = 130.0 Celsius Deg. panel send the message to heater he 
 Software
 Update 1.06
 
-+Local Domain (Device ID) will be the same as Device AP ex. koenighausv76cs6.local/App (koenighausv =>76cs6<= .local) =>DEVICE ID<=    
++Local Domain (Device ID) will be the same as Device AP ex. koenighausv76cs6.local/App (koenighaus =>76cs6<= .local) =>DEVICE ID<=    
 
 (That will help auto pairing mesh in one network)
 
