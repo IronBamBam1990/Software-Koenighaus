@@ -85,3 +85,19 @@ PASSWORD FOR THERMOSTAT:123456789
 
 +Open Window Function is added 
 
+/
+
+/
+
+/
+
+/
+
+/
+
+Update 1.07
+
++Thermostat change range from 5-30 celsius;
+
++ Ip numeber in Main Menu is no longer shown
+
