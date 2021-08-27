@@ -27,13 +27,21 @@ if panel go to hi temp = 130.0 Celsius Deg. panel send the message to heater he 
 
 +fixed Avarage Temperature in Statistic Menu;
 //
+
 //
+
 //
+
 //
+
 //
+
 //
+
 //
+
 //
+
 //
 
 
