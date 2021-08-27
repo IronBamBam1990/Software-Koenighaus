@@ -130,6 +130,9 @@ Update 1.09
 
 + ****** <---- random numer const ID
 
-+ Wifiname For Thermostat =  will be the same as Device AP ex. http://king863467.local/App (koenighaus =>v76cs6<= .local) =>DEVICE ID<=   
++ Wifiname For Thermostat =  will be the same as Device AP ex. http://king863467.local/App (koenighaus =>v76cs6<= .local) =>DEVICE ID<=  .Domain was too long so we must figured out new short name for domain  
 
-+
++If you wanna pair Panel now you must write in mqtt_server tab in WiFi Manager of PANEL ex. king874673.local <<<---- Thermostat domain you can find it in System Information.
+
++I am working on automatic pairing system but now thats the best solution for Connected Multi device in one network.
+
