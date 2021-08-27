@@ -13,7 +13,7 @@ Update 1.04
 
 +Fixed issue with "Menu Time Settings" Hour was locked from (4-23) now its (0-23).
 
-+Fixed issue with Program "Kuche" now LCD showing the actual Temperature and Program is goig like it must be in preset mode.
++Fixed issue with Program "Kuche" now LCD showing the actual Temperature and Program is going like it must be in preset mode.
 
 +Fixed issue with black Squares from prev. menu in Main Menu.
 
