@@ -101,3 +101,18 @@ Update 1.07
 
 + Ip numeber in Main Menu is no longer shown
 
++ longer message time is added from 5 to 30 sec
+
++ WPS Button Added function not working cause There is no button . New PCB they will come in next month.
+
++ added HoneyPot
+
++SLL CERTS Generated but still HTTPS not working; 
+
++ local domain for panel = http://kingpanel.local/update
++ WiFiname For Panel = KoenighausPanel
++ Wifiname For Thermostat =  will be the same as Device AP ex. http://koenighausv76cs6.local/App (koenighaus =>v76cs6<= .local) =>DEVICE ID<=   
+
+
+
+
