@@ -26,7 +26,23 @@ if panel go to hi temp = 130.0 Celsius Deg. panel send the message to heater he 
 +added saving macAddress 
 
 +fixed Avarage Temperature in Statistic Menu;
+//
 
+//
+
+//
+
+//
+
+//
+
+//
+
+//
+
+//
+
+//
 
 
 
@@ -38,9 +54,12 @@ if panel go to hi temp = 130.0 Celsius Deg. panel send the message to heater he 
 Software
 Update 1.06
 
-+Local Domain (Device ID) will be the same as Device AP ex. koenighausv76cs6.local/App (koenighaus =>76cs6<= .local) =>DEVICE ID<=    
++Local Domain (Device ID) will be the same as Device AP ex. koenighausv76cs6.local/App (koenighaus =>v76cs6<= .local) =>DEVICE ID<=    
 
 (That will help auto pairing mesh in one network)
+
+
+You Can See name of domain in "SYSTEM INFORMATION" MENU in Thermostat Device.
 
 +added new Mqtt Messages 
 
@@ -65,4 +84,35 @@ PASSWORD FOR THERMOSTAT:123456789
 +added security certs 
 
 +Open Window Function is added 
+
+/
+
+/
+
+/
+
+/
+
+/
+
+Update 1.07
+
++Thermostat change range from 5-30 celsius;
+
++ Ip numeber in Main Menu is no longer shown
+
++ longer message time is added from 5 to 30 sec
+
++ WPS Button Added function not working cause There is no button . New PCB they will come in next month.
+
++ added HoneyPot
+
++SLL CERTS Generated but still HTTPS not working; 
+
++ local domain for panel = http://kingpanel.local/update
++ WiFiname For Panel = KoenighausPanel
++ Wifiname For Thermostat =  will be the same as Device AP ex. http://koenighausv76cs6.local/App (koenighaus =>v76cs6<= .local) =>DEVICE ID<=   
+
+
+
 
