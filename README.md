@@ -17,7 +17,7 @@ Update 1.04
 
 +Fixed issue with black Squares from prev. menu in Main Menu.
 
-+fixed NTP server: pool.ntp.org
++fixed NTP server: pool.ntp.org (NTP WILL SETUP AUTOMATIC HOUR 60 sec after you connect Thermostat to WLAN
 
 +Information on screen about Too Hot Panel :
 
@@ -65,3 +65,4 @@ PASSWORD FOR THERMOSTAT:123456789
 +added security certs 
 
 +Open Window Function is added 
+
