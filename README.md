@@ -113,6 +113,23 @@ Update 1.07
 + WiFiname For Panel = KoenighausPanel
 + Wifiname For Thermostat =  will be the same as Device AP ex. http://koenighausv76cs6.local/App (koenighaus =>v76cs6<= .local) =>DEVICE ID<=   
 
+/
 
+/
 
+/
 
+/
+
+/
+Update 1.09
+
++ local domain for panel = http://kingpanel.local/update
+
++ Wifiname For Thermostat ex."king874673"    ====> king******      
+
++ ****** <---- random numer const ID
+
++ Wifiname For Thermostat =  will be the same as Device AP ex. http://king863467.local/App (koenighaus =>v76cs6<= .local) =>DEVICE ID<=   
+
++
