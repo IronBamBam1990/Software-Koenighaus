@@ -122,6 +122,7 @@ Update 1.07
 /
 
 /
+
 Update 1.09
 
 + local domain for panel = http://kingpanel.local/update
@@ -136,3 +137,34 @@ Update 1.09
 
 +I am working on automatic pairing system but now thats the best solution for Connected Multi device in one network.
 
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+
+
+Update 1.10
+
++In Thermostat: Reset Settings Button (on Display in Menu System Information)
+
++In Panel Physical Button(I must exchange one way on PCB);
+
++In Panel: domain typing in mqtt_tab 
+
++In Panel : added mac address saving
+
++Little  BugFix
+
++ 80% of pairing system
+
+- iOS Home kit for Panels is OFF right now i am fixing drivers.
